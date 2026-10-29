@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestionPharmacie.BLL/GestionPharmacie.BLL.csproj" />
+    <Project Path="src/GestionPharmacie.DAL/GestionPharmacie.DAL.csproj" />
+    <Project Path="src/GestionPharmacie.Models/GestionPharmacie.Models.csproj" />
+    <Project Path="src/GestionPharmacie.UI/GestionPharmacie.UI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GestionPharmacie.Tests/GestionPharmacie.Tests.csproj" />
+  </Folder>
+  <Folder Name="/TP-GitHub-CSharp/">
+    <Project Path="TP-GitHub-CSharp/BonjourGitHub/BonjourGitHub.csproj" />
+  </Folder>
+</Solution>
